@@ -1,0 +1,16 @@
+h2 {
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(219, 85, 152);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+header{
+    border-bottom: 1px solid white;
+}
+footer{
+    border-top: 1px solid white;
+}
